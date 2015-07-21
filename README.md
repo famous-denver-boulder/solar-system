@@ -8,7 +8,7 @@
 ```bash
 git clone https://github.com/famous-denver-boulder/solar-system.git
 cd solar-system
-npm i # install dependencies
+npm install # install dependencies
 ```
 
 ---
